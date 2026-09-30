@@ -1,1 +1,1 @@
-listeleme,ekleme,silme,güncelleme,aratma ödevi	
+listeleme,ekleme,silme,güncelleme,aratma
